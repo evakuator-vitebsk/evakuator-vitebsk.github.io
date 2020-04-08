@@ -1,0 +1,29 @@
+
+[data-novi-id="0"]{
+  color: #fb8600;
+}
+[data-novi-id="1"]{
+  color: rgb(251, 0, 11);
+}
+@media (min-width: 1600px) and (max-width: NaNpx){
+[data-novi-id="1"]{
+  
+  font-weight: 700;
+  
+  color: rgb(251, 0, 64);
+  
+  color: rgb(251, 87, 182);
+  
+  color: #fb000d;
+  color: #fb111e;
+  color: #fb4232;
+}
+[data-novi-id="0"]{
+  color: #f00;
+  
+  color: #000;
+  color: #f00;
+  color: #fb000a;
+  color: #fb1b25;
+}
+}
