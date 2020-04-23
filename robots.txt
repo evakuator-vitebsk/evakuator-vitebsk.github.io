@@ -1,3 +1,4 @@
 User-Agent: *
 Allow: /
-Sitemap: evacuator-vitebsk.by/sitemap.xml
+Host: https://evacuatorvitebsk.by/
+Sitemap: https://evacuatorvitebsk.by/sitemap.xml
